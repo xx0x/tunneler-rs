@@ -1,0 +1,8 @@
+[package]
+name = "tunneler-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28" # For terminal manipulation
+rand = "0.8" # For random number generation (if needed)
